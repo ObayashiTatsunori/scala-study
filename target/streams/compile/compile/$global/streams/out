@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Owner\workspace\scala-study\Distance.scala:4:18: not found: value kilometerPerHoursi[0m
+[0m[[0m[31merror[0m] [0m[0m  val distance = kilometerPerHoursi * minutes /60[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
